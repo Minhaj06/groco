@@ -615,6 +615,10 @@ input.box {
     padding: 1rem 0;
 }
 
+.footer .box_container .box .email {
+    text-transform: none;
+}
+
 .footer .box_container .box .links i {
     color: var(--orange);
 }
